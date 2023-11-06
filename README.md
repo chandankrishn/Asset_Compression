@@ -50,6 +50,9 @@ To get started, make sure you have:
 
 🎉 **Voila!** Watch as your assets get compressed in seconds.
 
+
+## ⚠️ Still you need to verify all assets are aligned well !!!
+
 ## 🙌 Contribution
 
 Feel free to fork the project, open a PR, or submit issues with ideas and suggestions. Let's make asset compression a breeze for everyone!

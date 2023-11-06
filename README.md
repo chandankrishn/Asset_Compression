@@ -34,8 +34,8 @@ To get started, make sure you have:
 
 1. Clone the repository:
     ```bash
-    git clone [your-repository-link]
-    cd [repository-name]
+    git clone [https://github.com/chandankrishn/Asset_Compression.git]
+    cd [Asset_Compression]
     ```
 
 2. Run the script:

@@ -8,7 +8,7 @@ Have you ever been stuck with the repetitive, tedious task of manually compressi
 Introducing the ultimate solution to one of the most time-consuming tasks developers face: **Asset Compression**!
 
 ## 🧠 What is it?
-A Python script that automates the optimization of your PNG, JPEG, and JPG assets. With just a single command, you can compress all assets in a directory, freeing you from the drudgery of manual compression.
+A Python script that automates the optimization of your PNG, JPEG, and JPG assets. With just a single command, you can compress all assets in you project, freeing you from the drudgery of manual compression.
 
 ## 🛠 Prerequisites
 
